@@ -4,16 +4,10 @@
 - <b>Active Directory Lab</b> (https://github.com/pmpinu/ActiveDirectoryLab)<br>
 - <b>Vulnerability Management Lab</b> (https://github.com/pmpinu/VulnerabilityManagementLab)
 
+<!--
 
 <h2>📺 Popular YouTube Videos</h2>
-
-
 <h2> 🤳 Connect with me:</h2>
-
-
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
