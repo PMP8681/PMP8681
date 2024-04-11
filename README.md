@@ -1,8 +1,8 @@
 <h1>Hi, I'm Pinal!</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- <b>Active Directory Lab</b> (https://github.com/pmpinu/ActiveDirectoryLab)
-- <b>Vulnerability Management Lab</b> (https://github.com/pmpinu/ActiveDirectoryLab)
+- <b>Active Directory Lab</b> (https://github.com/pmpinu/ActiveDirectoryLab)<br>
+- <b>Vulnerability Management Lab</b> (https://github.com/pmpinu/VulnerabilityManagementLab)
 
 
 <h2>📺 Popular YouTube Videos</h2>
